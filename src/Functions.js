@@ -2,8 +2,8 @@
 Напишите коллбек для array.filter, который отбирает все числа больше num
  */
 export function higherThan(num) {
-    return function (num1) {
-        return num1 > num;
+    return function (num3) {
+        return num3 > num;
     };
 }
 
